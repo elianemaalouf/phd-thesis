@@ -47,7 +47,7 @@ problems.
  
 ## Contents
  
-- `Maalouf_PhD_thesis_2026.pdf` — full manuscript 
+- `Maalouf_PhD_thesis_2026.zip` — containing full pdf manuscript file
  
 ## Code
  
