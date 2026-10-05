@@ -2,6 +2,7 @@
  
 PhD thesis in Computer Science (Computational Statistics), University of Neuchâtel, Switzerland.
 Defended on 10 June 2026.
+Accessible online at : https://libra.unine.ch/handle/20.500.14713/100603
  
 **Author:** Eliane Maalouf
 
